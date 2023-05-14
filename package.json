@@ -4,9 +4,18 @@
   "description": "Sakamichi Group Data Info API",
   "scripts": {
     "dev": "nitro dev",
-    "build": "nitro build"
+    "build": "nitro build",
+    "gen:no": "tsno run scripts/gen-nogi.ts"
   },
   "devDependencies": {
-    "nitropack": "npm:nitropack-edge@latest"
+    "@types/node": "^20.1.1",
+    "@xmldom/xmldom": "^0.8.7",
+    "domhandler": "^5.0.3",
+    "htmlparser2": "^9.0.0",
+    "nitropack": "npm:nitropack-edge@latest",
+    "ofetch": "^1.0.1",
+    "playwright": "^1.33.0",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
   }
 }
