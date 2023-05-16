@@ -4,6 +4,9 @@ devDependencies:
   '@types/node':
     specifier: ^20.1.1
     version: 20.1.1
+  '@use-kit/functions':
+    specifier: ^0.0.8
+    version: 0.0.8
   '@xmldom/xmldom':
     specifier: ^0.8.7
     version: 0.8.7
@@ -485,6 +488,13 @@ packages:
     resolution: {integrity: sha512-60BCwRFOZCQhDncwQdxxeOEEkbc5dIMccYLwbxsS4TUNeVECQ/pBJ0j09mrHOl/JJvpRPGwO9SvE4nR2Nb/a4Q==}
     dev: true
 
+  /@use-kit/functions@0.0.8:
+    resolution: {integrity: sha512-XaOUiHgHhL4GFNAAuY6ELqrbpMdJDGlW7DhOXRXMmTXeWnnT4VF8d/QnLNUDfuXQktjrYm6MvgytdpicijeFgQ==}
+    dependencies:
+      dayjs: 1.11.7
+      observer-emit: 1.0.1
+    dev: true
+
   /@vercel/nft@0.22.6:
     resolution: {integrity: sha512-gTsFnnT4mGxodr4AUlW3/urY+8JKKB452LwF3m477RFUJTAaDmcz2JqFuInzvdybYIeyIv1sSONEJxsxnbQ5JQ==}
     engines: {node: '>=14'}
@@ -835,6 +845,10 @@ packages:
       path-key: 3.1.1
       shebang-command: 2.0.0
       which: 2.0.2
+    dev: true
+
+  /dayjs@1.11.7:
+    resolution: {integrity: sha512-+Yw9U6YO5TQohxLcIkrXBeY73WP3ejHWVvx8XCk3gxvQDCTEmS48ZrSZCKciI7Bhl/uCMyxYtE9UqRILmFphkQ==}
     dev: true
 
   /debug@2.6.9:
@@ -1791,6 +1805,10 @@ packages:
   /object-assign@4.1.1:
     resolution: {integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==}
     engines: {node: '>=0.10.0'}
+    dev: true
+
+  /observer-emit@1.0.1:
+    resolution: {integrity: sha512-z7R3kNj351QGUYx2GSDSr9OJTozBdnzfp3MMLVi7LS8VUls/AUOV/LpzIWo6yexAkfGeDzKvKAsnv8iAL07W0Q==}
     dev: true
 
   /ofetch@1.0.1:
