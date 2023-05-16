@@ -1,0 +1,24 @@
+[
+  {
+    "id": "saito_asuka",
+    "lang": [
+      "斋藤飞鸟",
+      "齋藤飛鳥",
+      "Asuka_Saitō",
+      "齋藤飛鳥"
+    ],
+    "zh-cn": "https://zh.wikipedia.org/wiki/斋藤飞鸟",
+    "zh-hk": "https://zh.wikipedia.org/zh-hk/齋藤飛鳥",
+    "en": "https://en.wikipedia.org/wiki/Asuka_Saitō",
+    "ja": "https://ja.wikipedia.org/wiki/齋藤飛鳥"
+  },
+  {
+    "id": "nishino_nanase",
+    "lang": [
+      "西野七瀨",
+      "西野七瀨",
+      "Nanase_Nishino",
+      "西野七瀬"
+    ]
+  }
+]

@@ -32,6 +32,33 @@ fetch('api/nogizaka/member', {
 - [ ] 3. nitor cache data
 - [ ] 4. continue to use API design
 
+### Info Field Interface
+
+```ts
+interface Member {
+  // preset
+  code: string
+  name: string
+  romanized: string
+  kana?: string
+  cate: string
+  img?: string
+  birthday: string
+  constellation?: string
+  blood?: string
+
+  // customized
+  id: string
+  nickname: string
+  zh_name: string
+  age: number
+  height: number
+  active: boolean
+  citizenship: string
+  birthplace: string
+}
+```
+
 ## License
 
 [MIT](./LICENSE) License © 2022 [Akashi Sai](https://github.com/akashigakki)
