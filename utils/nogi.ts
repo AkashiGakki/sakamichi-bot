@@ -23,6 +23,8 @@ export const presetNoMembers = () => {
   const members = jsonData.data
     .filter((m: Record<string, unknown>) => m.code !== '10001')
     .map((m: Record<string, unknown>) => getObjectField(m, defaultFields))
+
+  return members
 }
 
 export const cachedNoMemberInfo = cachedFunction(async () => {
