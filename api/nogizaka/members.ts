@@ -1,6 +1,6 @@
-import jsonData from '../../data/no-member.json'
+import { presetNoMembers } from '../../utils/nogi'
 
 export default eventHandler(async (event) => {
 
-  return jsonData
+  return presetNoMembers()
 })
