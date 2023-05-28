@@ -9,7 +9,7 @@ const dataCleaning = (str: string): Record<string, unknown> => {
   return JSON.parse(data)
 }
 
-export const nMembers = async () => {
+export const fetchNoMembers = async () => {
   const resp: string = await $fetch('https://www.nogizaka46.com/s/n46/api/list/member')
 
   if (resp) {
@@ -19,12 +19,17 @@ export const nMembers = async () => {
   return []
 }
 
-export const presetNoMembers = () => {
+const presetNoMembers = () => {
   const members = jsonData.data
     .filter((m: Record<string, unknown>) => m.code !== '10001')
     .map((m: Record<string, unknown>) => getObjectField(m, defaultFields))
 
   return members
+}
+
+// TODO: preset + wiki
+export const nMembers = () => {
+  return presetNoMembers()
 }
 
 export const cachedNoMemberInfo = cachedFunction(async () => {
