@@ -5,6 +5,7 @@ export default defineEventHandler(() => {
       <li><div>Nogizaka</div></li>
       <ul>
       <li><a href="/api/nogizaka/members">members</a></li>
+      <li><a href="/api/nogizaka/member/264">member -> take 'asuka' as an example</a></li>
       </ul>
 
       <li><div>Kiyakizaka</div></li>
