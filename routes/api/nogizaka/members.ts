@@ -1,4 +1,4 @@
-import { nMembers } from '../../utils/nogi'
+import { nMembers } from '../../../utils/nogi'
 
 export default eventHandler(async (event) => {
 
