@@ -21,7 +21,7 @@ fetch('api/nogizaka/member', {
 
 - [x] 1. fetch office website data and save to JSON
 - [x] 2. data cleaning -> split && remove redundant fields
-- [ ] 3. collect && fetch wiki site and merge data
+- [ ] 3. collect && fetch wiki site to JSON and merge data
 - [ ] 4. nitro cache data
 - [ ] 5. design API
 
