@@ -3,6 +3,7 @@ import { chromium } from 'playwright'
 import * as xpath from 'xpath'
 import dom from 'xmldom'
 import { Parser } from 'htmlparser2'
+import fs from 'node:fs'
 
 console.log('>looking for loading....')
 console.log()
@@ -20,12 +21,19 @@ const doc = new dom.DOMParser().parseFromString(html)
 const nodes = xpath.select('//*[@id="mw-content-text"]/div[1]/table[1]', doc)
 const table = nodes[0].toString()
 
-const parser = new Parser({
-  ontext(text) {
-    console.log('->', text)
-  }
-})
+// const parser = new Parser({
+//   ontext(text) {
+//     console.log('->', text)
+//   }
+// })
 
-parser.write(table)
-parser.end()
+// parser.write(table)
+// parser.end()
 
+try {
+  fs.writeFileSync('../data/nanase.html', table, 'utf8')
+  console.log('File is written successfully!')
+}
+catch (err) {
+  console.log(`Error writing file: ${err}`)
+}
