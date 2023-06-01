@@ -31,7 +31,7 @@ const table = nodes[0].toString()
 // parser.end()
 
 try {
-  fs.writeFileSync('../data/nanase.html', table, 'utf8')
+  fs.writeFileSync('./data/nanase.html', table, 'utf8')
   console.log('File is written successfully!')
 }
 catch (err) {

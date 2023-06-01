@@ -51,8 +51,8 @@ for (const target of pageList) {
   const ogTable = ogNodes[0].toString()
 
   try {
-    fs.writeFileSync(`../data/nogi/${target.name[0]}.html`, table, 'utf8')
-    fs.writeFileSync(`../data/nogi/${target.name[1]}.html`, ogTable, 'utf8')
+    fs.writeFileSync(`./data/nogi/${target.name[0]}.html`, table, 'utf8')
+    fs.writeFileSync(`./data/nogi/${target.name[1]}.html`, ogTable, 'utf8')
     console.log('File is written successfully!')
   }
   catch (err) {
@@ -60,4 +60,4 @@ for (const target of pageList) {
   }
 }
 
-browser.close()
+await browser.close()
