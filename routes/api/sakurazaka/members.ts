@@ -1,5 +1,5 @@
+import { sMember } from '@/utils/sakura'
+
 export default eventHandler(() => {
-  return {
-    'sakurazaka': true
-  }
+  return sMember()
 })
