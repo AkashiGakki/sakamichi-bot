@@ -40,22 +40,21 @@ interface Member {
   code: string
   name: string
   romanized: string
-  kana?: string
+  kana: string
   cate: string
-  img?: string
   birthday: string
-  constellation?: string
   blood?: string
+  img?: string
+  constellation?: string
 
   // customized
   id: string
   nickname: string
-  zh_name: string
   age: number
-  height: number
-  active: boolean
-  citizenship: string
+  height: number | string
+  // active: boolean
   birthplace: string
+  citizenship: string
 }
 ```
 
