@@ -1,4 +1,4 @@
-import { kMember } from '@/utils/kiyaki'
+import { kMember } from '@/lib/kiyaki'
 
 export default eventHandler(async () => {
   const store = await useStorage('kiyaki')
