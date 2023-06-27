@@ -5,8 +5,8 @@ devDependencies:
     specifier: ^20.1.1
     version: 20.1.1
   '@use-kit/functions':
-    specifier: ^0.0.8
-    version: 0.0.8
+    specifier: ^0.1.4
+    version: 0.1.4
   '@xmldom/xmldom':
     specifier: ^0.8.7
     version: 0.8.7
@@ -513,8 +513,8 @@ packages:
     resolution: {integrity: sha512-60BCwRFOZCQhDncwQdxxeOEEkbc5dIMccYLwbxsS4TUNeVECQ/pBJ0j09mrHOl/JJvpRPGwO9SvE4nR2Nb/a4Q==}
     dev: true
 
-  /@use-kit/functions@0.0.8:
-    resolution: {integrity: sha512-XaOUiHgHhL4GFNAAuY6ELqrbpMdJDGlW7DhOXRXMmTXeWnnT4VF8d/QnLNUDfuXQktjrYm6MvgytdpicijeFgQ==}
+  /@use-kit/functions@0.1.4:
+    resolution: {integrity: sha512-PUXZ3EtXGDzK6cq7u097Ly+5mZW9wytZkyE/Of1vXxeZVkiRFO3kbtchEdXwlm6cH7jqv7Hs17InPMIVAYpqDQ==}
     dependencies:
       dayjs: 1.11.7
       observer-emit: 1.0.1

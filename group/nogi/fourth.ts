@@ -1,4 +1,5 @@
-import { getAge } from '@use-kit/functions'
+import { getAge, getConstellation } from '@use-kit/functions'
+import fourth from './fourth.json'
 
 export const fourthOsu = [
   'ayame', 'kaki', 'mayu', 'saku', 'nao',
@@ -7,119 +8,77 @@ export const fourthOsu = [
 ]
 
 export const fourthMember = [{
-  id: '04-01',
-  use: 'tsutsui ayame',
-  nickname: 'ayame',
-  age: getAge('2004/06/08'),
-  height: 160,
-  active: true,
+  ...fourth['tsutsui ayame'],
+  age: getAge(fourth['tsutsui ayame'].birth),
+  constellation: getConstellation(fourth['tsutsui ayame'].birth, 'ja')
 }, {
-  id: '04-02',
-  use: 'kaki haruka',
-  nickname: 'kaki',
-  age: getAge('2001/08/08'),
-  height: 166,
-  active: true,
+  ...fourth['kaki haruka'],
+  age: getAge(fourth['kaki haruka'].birth),
+  constellation: getConstellation(fourth['kaki haruka'].birth, 'ja')
 }, {
-  id: '04-03',
-  use: 'tamura mayu',
-  nickname: 'mayu',
-  age: getAge('1999/01/12'),
-  height: 160,
-  active: true,
+  ...fourth['tamura mayu'],
+  age: getAge(fourth['tamura mayu'].birth),
+  constellation: getConstellation(fourth['tamura mayu'].birth, 'ja')
 }, {
-  id: '04-04',
-  use: 'endo sakura',
-  nickname: 'saku',
-  age: getAge('2001/10/03'),
-  height: 164,
-  active: true,
+  ...fourth['endo sakura'],
+  age: getAge(fourth['endo sakura'].birth),
+  constellation: getConstellation(fourth['endo sakura'].birth, 'ja')
 }, {
-  id: '04-05',
-  use: 'yumiki nao',
-  nickname: 'nao',
-  age: getAge('1999/02/03'),
-  height: 165,
-  active: true,
+  ...fourth['yumiki nao'],
+  age: getAge(fourth['yumiki nao'].birth),
+  constellation: getConstellation(fourth['yumiki nao'].birth, 'ja')
 }, {
-  id: '04-06',
-  use: 'kitagawa yuri',
-  nickname: 'yuri',
-  age: getAge('2001/08/08'),
-  height: 165,
-  active: true,
+  ...fourth['matsuo miyu'],
+  age: getAge(fourth['matsuo miyu'].birth),
+  constellation: getConstellation(fourth['matsuo miyu'].birth, 'ja')
 }, {
-  id: '04-07',
-  use: 'kanagawa saya',
-  nickname: 'saya',
-  age: getAge('2001/10/31'),
-  height: 165,
-  active: true,
+  ...fourth['kanagawa saya'],
+  age: getAge(fourth['kanagawa saya'].birth),
+  constellation: getConstellation(fourth['kanagawa saya'].birth, 'ja')
 }, {
-  id: '04-08',
-  use: 'sato rika',
-  nickname: 'rika',
-  age: getAge('2001/08/09'),
-  height: 160,
-  active: true,
+  ...fourth['sato rika'],
+  age: getAge(fourth['sato rika'].birth),
+  constellation: getConstellation(fourth['sato rika'].birth, 'ja')
 }, {
-  id: '04-09',
-  use: 'hayashi runa',
-  nickname: 'hayashi',
-  age: getAge('2003/10/02'),
-  height: 164,
-  active: true,
+  ...fourth['hayashi runa'],
+  age: getAge(fourth['hayashi runa'].birth),
+  constellation: getConstellation(fourth['hayashi runa'].birth, 'ja')
 }, {
-  id: '04-10',
-  use: 'hayakawa seira',
-  nickname: 'seira',
-  age: getAge('2000/08/24'),
-  height: 164,
-  active: true,
+  ...fourth['shibata yuna'],
+  age: getAge(fourth['shibata yuna'].birth),
+  constellation: getConstellation(fourth['shibata yuna'].birth, 'ja')
 }, {
-  id: '04-11',
-  use: 'shibata yuna',
-  nickname: 'yuna',
-  age: getAge('2003/03/03'),
-  height: 160,
-  active: true,
+  ...fourth['hayakawa seira'],
+  age: getAge(fourth['hayakawa seira'].birth),
+  constellation: getConstellation(fourth['hayakawa seira'].birth, 'ja')
 }, {
-  id: '04-12',
-  use: 'matsuo miyu',
-  nickname: 'miyu',
-  age: getAge('2004/01/03'),
-  height: 167,
-  active: true,
+  ...fourth['kakehashi sayaka'],
+  age: getAge(fourth['kakehashi sayaka'].birth),
+  constellation: getConstellation(fourth['kakehashi sayaka'].birth, 'ja')
 }, {
-  id: '04-13',
-  use: 'kakehashi sayaka',
-  nickname: 'sayaka',
-  age: getAge('2002/11/20'),
-  height: 154,
-  active: true,
+  ...fourth['yakubo mio'],
+  age: getAge(fourth['yakubo mio'].birth),
+  constellation: getConstellation(fourth['yakubo mio'].birth, 'ja')
 }, {
-  id: '04-14',
-  use: 'yakubo mio',
-  nickname: 'mio',
-  age: getAge('2002/08/14'),
-  height: 153,
-  active: true,
+  ...fourth['kuromi haruka'],
+  age: getAge(fourth['kuromi haruka'].birth),
+  constellation: getConstellation(fourth['kuromi haruka'].birth, 'ja')
 }, {
-  id: '04-15',
-  use: 'kuromi haruka',
-  nickname: 'kuromi',
-  age: getAge('2004/01/19'),
-  height: 162,
-  active: true,
-}, {
-  id: '04-16',
-  use: 'seimiya rei',
-  nickname: 'rei',
-  age: getAge('2003/08/01'),
-  height: 164,
-  active: true,
+  ...fourth['seimiya rei'],
+  age: getAge(fourth['seimiya rei'].birth),
+  constellation: getConstellation(fourth['seimiya rei'].birth, 'ja')
 }]
 
-export const fourthGraduated = []
+export const fourthGraduated = [{
+  ...fourth['kitagawa yuri'],
+  age: getAge(fourth['kitagawa yuri'].birth),
+  constellation: getConstellation(fourth['kitagawa yuri'].birth, 'ja')
+}, {
+  ...fourth['hayakawa seira'],
+  age: getAge(fourth['hayakawa seira'].birth),
+  constellation: getConstellation(fourth['hayakawa seira'].birth, 'ja')
+}]
 
 export const cateFourth = fourthMember.concat(fourthGraduated)
+
+console.log({ cateFourth })
