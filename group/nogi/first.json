@@ -1,0 +1,233 @@
+{
+  "saito asuka": {
+    "id": "01-01",
+    "code": "01-01",
+    "romanized": "saito asuka",
+    "nickname": "asuka",
+    "birth": "1998/08/10"
+  },
+  "nishino nanase": {
+    "id": "01-02",
+    "code": "01-02",
+    "romanized": "nishino nanase",
+    "nickname": "nanase",
+    "birth": "1994/05/25"
+  },
+  "hashimoto nanami": {
+    "id": "01-03",
+    "code": "01-03",
+    "romanized": "hashimoto nanami",
+    "nickname": "nanami",
+    "birth": "1993/02/20"
+  },
+  "shiraishi mai": {
+    "id": "01-04",
+    "code": "01-04",
+    "romanized": "shiraishi mai",
+    "nickname": "mai",
+    "birth": "1992/08/20"
+  },
+  "ikuta erika": {
+    "id": "01-05",
+    "code": "01-05",
+    "romanized": "ikuta erika",
+    "nickname": "erika",
+    "birth": "1997/01/22"
+  },
+  "itou marika": {
+    "id": "01-06",
+    "code": "01-06",
+    "romanized": "itou marika",
+    "nickname": "marika",
+    "birth": "1996/02/20"
+  },
+  "hoshino minami": {
+    "id": "01-07",
+    "code": "01-07",
+    "romanized": "hoshino minami",
+    "nickname": "minami",
+    "birth": "1998/02/06"
+  },
+  "etou misa": {
+    "id": "01-08",
+    "code": "01-08",
+    "romanized": "etou misa",
+    "nickname": "misa",
+    "birth": "1993/01/04"
+  },
+  "akimoto manatsu": {
+    "id": "01-09",
+    "code": "01-09",
+    "romanized": "akimoto manatsu",
+    "nickname": "manatsu",
+    "birth": "1993/08/20"
+  },
+  "matsumura sayuri": {
+    "id": "01-10",
+    "code": "01-10",
+    "romanized": "matsumura sayuri",
+    "nickname": "sayuri",
+    "birth": "1992/08/27"
+  },
+  "takayama kazumi": {
+    "id": "01-11",
+    "code": "01-11",
+    "romanized": "takayama kazumi",
+    "nickname": "kazumi",
+    "birth": "1994/02/08"
+  },
+  "sakurai reika": {
+    "id": "01-12",
+    "code": "01-12",
+    "romanized": "sakurai reika",
+    "nickname": "sakurai",
+    "birth": "1994/05/16"
+  },
+  "nakamoto himeka": {
+    "id": "01-13",
+    "code": "01-13",
+    "romanized": "nakamoto himeka",
+    "nickname": "himeka",
+    "birth": "1996/04/13"
+  },
+  "fukagawa mai": {
+    "id": "01-14",
+    "code": "01-14",
+    "romanized": "fukagawa mai",
+    "nickname": "maimai",
+    "birth": "1991/03/29"
+  },
+  "inoue sayuri": {
+    "id": "01-15",
+    "code": "01-15",
+    "romanized": "inoue sayuri",
+    "nickname": "inoue",
+    "birth": "1994/12/14"
+  },
+  "saitou yuuri": {
+    "id": "01-16",
+    "code": "01-16",
+    "romanized": "saitou yuuri",
+    "nickname": "yuuri",
+    "birth": "1993/07/20"
+  },
+  "ikoma rina": {
+    "id": "01-17",
+    "code": "01-17",
+    "romanized": "ikoma rina",
+    "nickname": "ikoma",
+    "birth": "1995/12/29"
+  },
+  "noujou ami": {
+    "id": "01-18",
+    "code": "01-18",
+    "romanized": "noujou ami",
+    "nickname": "noujou",
+    "birth": "1994/10/18"
+  },
+  "wakatsuki yumi": {
+    "id": "01-19",
+    "code": "01-19",
+    "romanized": "wakatsuki yumi",
+    "nickname": "waka",
+    "birth": "1994/06/27"
+  },
+  "kawamura mahiro": {
+    "id": "01-20",
+    "code": "01-20",
+    "romanized": "kawamura mahiro",
+    "nickname": "mahiro",
+    "birth": "1995/07/23"
+  },
+  "kawago hina": {
+    "id": "01-21",
+    "code": "01-21",
+    "romanized": "kawago hina",
+    "nickname": "kawago",
+    "birth": "1998/03/22"
+  },
+  "higuchi hina": {
+    "id": "01-22",
+    "code": "01-22",
+    "romanized": "higuchi hina",
+    "nickname": "higuchi",
+    "birth": "1998/01/31"
+  },
+  "wada maaya": {
+    "id": "01-23",
+    "code": "01-23",
+    "romanized": "wada maaya",
+    "nickname": "maaya",
+    "birth": "1998/04/23"
+  },
+  "nagashima seira": {
+    "id": "01-24",
+    "code": "01-24",
+    "romanized": "nagashima seira",
+    "nickname": "seirari",
+    "birth": "1994/05/19"
+  },
+  "saitou chiharu": {
+    "id": "01-25",
+    "code": "01-25",
+    "romanized": "saitou chiharu",
+    "nickname": "",
+    "birth": "1997/02/17"
+  },
+  "nakada kana": {
+    "id": "01-26",
+    "code": "01-26",
+    "romanized": "nakada kana",
+    "nickname": "kana",
+    "birth": "1994/08/06"
+  },
+  "itou nene": {
+    "id": "01-27",
+    "code": "01-27",
+    "romanized": "itou nene",
+    "nickname": "nene",
+    "birth": "1995/12/12"
+  },
+  "ichiki rena": {
+    "id": "01-28",
+    "code": "01-28",
+    "romanized": "ichiki rena",
+    "nickname": "ichiki",
+    "birth": "1996/01/22"
+  },
+  "kashiwa yukina": {
+    "id": "01-29",
+    "code": "01-29",
+    "romanized": "kashiwa yukina",
+    "nickname": "kashiwa",
+    "birth": "1994/08/12"
+  },
+  "iwase yumiko": {
+    "id": "01-30",
+    "code": "01-30",
+    "romanized": "iwase yumiko",
+    "nickname": "iwase",
+    "birth": "1990/06/12"
+  },
+  "hatanaka seira": {
+    "id": "01-31",
+    "code": "01-31",
+    "romanized": "hatanaka seira",
+    "nickname": "hatanaka",
+    "birth": "1995/12/05"
+  },
+  "miyazawa seira": {
+    "id": "01-32",
+    "code": "01-32",
+    "romanized": "miyazawa seira",
+    "nickname": "miyazawa",
+    "birth": "1993/10/29"
+  },
+  "yamato rina": {
+    "id": "01-33",
+    "code": "01-33",
+    "romanized": "yamato rina",
+    "nickname": "yamato",
+    "birth": "1994/12/14"
+  }
+}

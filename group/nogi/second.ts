@@ -1,4 +1,5 @@
-import { getAge } from '@use-kit/functions'
+import { getAge, getConstellation } from '@use-kit/functions'
+import second from './second.json'
 
 export const secondOsu = [
   'miona', 'kotoko', 'hinako', 'shinuchi', 'renze',
@@ -6,106 +7,64 @@ export const secondOsu = [
   'rena', 'iori', 'karin', 'kyoka', 'risako',
 ]
 
-export const secondMember = [{
-  id: '02-09',
-  use: 'suzuki ayane',
-  nickname: 'ayane',
-  age: getAge('1999/03/05'),
-  height: 160,
-  active: true,
-}]
+export const secondMember = []
 
 export const secondGraduated = [{
-  id: '02-01',
-  use: 'hori miona',
-  nickname: 'miona',
-  age: getAge('1996/10/15'),
-  height: 160,
-  active: false,
-}, {
-  id: '02-02',
-  use: 'sasaki kotoko',
-  nickname: 'kotoko',
-  age: getAge('1998/08/28'),
-  height: 163,
-  active: false,
-}, {
-  id: '02-03',
-  use: 'kitano hinako',
-  nickname: 'hinako',
-  age: getAge('1996/07/17'),
-  height: 158,
-  active: false,
-}, {
-  id: '02-04',
-  use: 'shinuchi mai',
-  nickname: 'shinuchi',
-  age: getAge('1992/01/22'),
-  height: 165,
-  active: false,
-}, {
-  id: '02-05',
-  use: 'terada ranze',
-  nickname: 'ranze',
-  age: getAge('1998/09/23'),
-  height: 155,
-  active: false,
-}, {
-  id: '02-06',
-  use: 'itou junna',
-  nickname: 'junna',
-  age: getAge('1998/11/30'),
-  height: 166,
-  active: false,
-}, {
-  id: '02-07',
-  use: 'yamazaki rena',
-  nickname: 'yamazaki',
-  age: getAge('1997/05/21'),
-  height: 164,
-  active: false,
-}, {
-  id: '02-08',
-  use: 'watanabe miria',
-  nickname: 'miria',
-  age: getAge('1999/11/01'),
-  height: 153,
-  active: false,
-}, {
-  id: '02-10',
-  use: 'matsui rena',
-  nickname: 'rena',
-  age: getAge('1991/07/27'),
-  height: 162,
-  active: false,
-}, {
-  id: '02-11',
-  use: 'sagara iori',
-  nickname: 'iori',
-  age: getAge('1997/11/26'),
-  height: 164,
-  active: false,
-}, {
-  id: '02-12',
-  use: 'itou karin',
-  nickname: 'karin',
-  age: getAge('1993/05/26'),
-  height: 154,
-  active: false,
-}, {
-  id: '02-13',
-  use: 'yonetoku kyoka',
-  nickname: 'kyoka',
-  age: getAge('1999/04/14'),
-  height: -Infinity,
-  active: false,
-}, {
-  id: '02-14',
-  use: 'yada risako',
-  nickname: 'risako',
-  age: getAge('1995/03/08'),
-  height: -Infinity,
-  active: false,
+  ...second['hori miona'],
+  age: getAge(second['hori miona'].birth),
+  constellation: getConstellation(second['hori miona'].birth, 'ja')
+},{
+  ...second['sasaki kotoko'],
+  age: getAge(second['sasaki kotoko'].birth),
+  constellation: getConstellation(second['sasaki kotoko'].birth, 'ja')
+},{
+  ...second['kitano hinako'],
+  age: getAge(second['kitano hinako'].birth),
+  constellation: getConstellation(second['kitano hinako'].birth, 'ja')
+},{
+  ...second['shinuchi mai'],
+  age: getAge(second['shinuchi mai'].birth),
+  constellation: getConstellation(second['shinuchi mai'].birth, 'ja')
+},{
+  ...second['terada ranze'],
+  age: getAge(second['terada ranze'].birth),
+  constellation: getConstellation(second['terada ranze'].birth, 'ja')
+},{
+  ...second['itou junna'],
+  age: getAge(second['itou junna'].birth),
+  constellation: getConstellation(second['itou junna'].birth, 'ja')
+},{
+  ...second['yamazaki rena'],
+  age: getAge(second['yamazaki rena'].birth),
+  constellation: getConstellation(second['yamazaki rena'].birth, 'ja')
+},{
+  ...second['watanabe miria'],
+  age: getAge(second['watanabe miria'].birth),
+  constellation: getConstellation(second['watanabe miria'].birth, 'ja')
+},{
+  ...second['suzuki ayane'],
+  age: getAge(second['suzuki ayane'].birth),
+  constellation: getConstellation(second['suzuki ayane'].birth, 'ja')
+},{
+  ...second['matsui rena'],
+  age: getAge(second['matsui rena'].birth),
+  constellation: getConstellation(second['matsui rena'].birth, 'ja')
+},{
+  ...second['sagara iori'],
+  age: getAge(second['sagara iori'].birth),
+  constellation: getConstellation(second['sagara iori'].birth, 'ja')
+},{
+  ...second['itou karin'],
+  age: getAge(second['itou karin'].birth),
+  constellation: getConstellation(second['itou karin'].birth, 'ja')
+},{
+  ...second['yonetoku kyoka'],
+  age: getAge(second['yonetoku kyoka'].birth),
+  constellation: getConstellation(second['yonetoku kyoka'].birth, 'ja')
+},{
+  ...second['yada risako'],
+  age: getAge(second['yada risako'].birth),
+  constellation: getConstellation(second['yada risako'].birth, 'ja')
 }]
 
 export const cateSecond = secondMember.concat(secondGraduated)
