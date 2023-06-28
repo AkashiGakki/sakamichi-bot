@@ -1,4 +1,5 @@
-import { getAge } from '@use-kit/functions'
+import { getAge, getConstellation } from '@use-kit/functions'
+import first from './first.json'
 
 export const firstOsu = [
   'asuka', 'nanase', 'nanami', 'shiraishi', 'erika', 'marika',
@@ -7,240 +8,140 @@ export const firstOsu = [
   'mahiro', 'kawago', 'higuchi', 'maaya', 'seirari', 'chiharu',
 ]
 
-export const firstMember = [{
-  id: '01-01',
-  use: 'saito asuka',
-  nickname: 'asuka',
-  age: getAge('1998/08/10'),
-  height: 158,
-  active: true,
-}, {
-  id: '01-09',
-  use: 'akimoto manatsu',
-  nickname: 'manatsu',
-  age: getAge('1993/08/20'),
-  height: 154,
-  active: true,
-}]
+export const firstMember = []
 
 export const firstGraduated = [{
-  id: '01-02',
-  use: 'nishino nanase',
-  nickname: 'nanase',
-  age: getAge('1994/05/25'),
-  height: 159,
-  active: false,
+  ...first['saito asuka'],
+  age: getAge(first['saito asuka'].birth),
+  constellation: getConstellation(first['saito asuka'].birth, 'ja')
 }, {
-  id: '01-03',
-  use: 'hashimoto nanami',
-  nickname: 'nanami',
-  age: getAge('1993/02/20'),
-  height: 163,
-  active: false,
+  ...first['nishino nanase'],
+  age: getAge(first['nishino nanase'].birth),
+  constellation: getConstellation(first['nishino nanase'].birth, 'ja')
 }, {
-  id: '01-04',
-  use: 'shiraishi mai',
-  nickname: 'mai',
-  age: getAge('1992/08/20'),
-  height: 162,
-  active: false,
+  ...first['hashimoto nanami'],
+  age: getAge(first['hashimoto nanami'].birth),
+  constellation: getConstellation(first['hashimoto nanami'].birth, 'ja')
 }, {
-  id: '01-05',
-  use: 'ikuta erika',
-  nickname: 'erika',
-  age: getAge('1997/01/22'),
-  height: 160,
-  active: false,
+  ...first['shiraishi mai'],
+  age: getAge(first['shiraishi mai'].birth),
+  constellation: getConstellation(first['shiraishi mai'].birth, 'ja')
 }, {
-  id: '01-06',
-  use: 'itou marika',
-  nickname: 'marika',
-  age: getAge('1996/02/20'),
-  height: 155,
-  active: false,
+  ...first['ikuta erika'],
+  age: getAge(first['ikuta erika'].birth),
+  constellation: getConstellation(first['ikuta erika'].birth, 'ja')
 }, {
-  id: '01-07',
-  use: 'hoshino minami',
-  nickname: 'minami',
-  age: getAge('1998/02/06'),
-  height: 155,
-  active: false,
+  ...first['itou marika'],
+  age: getAge(first['itou marika'].birth),
+  constellation: getConstellation(first['itou marika'].birth, 'ja')
 }, {
-  id: '01-08',
-  use: 'etou misa',
-  nickname: 'misa',
-  age: getAge('1993/01/04'),
-  height: 162,
-  active: false,
+  ...first['hoshino minami'],
+  age: getAge(first['hoshino minami'].birth),
+  constellation: getConstellation(first['hoshino minami'].birth, 'ja')
 }, {
-  id: '01-10',
-  use: 'matsumura sayuri',
-  nickname: 'sayuri',
-  age: getAge('1992/08/27'),
-  height: 164,
-  active: false,
+  ...first['etou misa'],
+  age: getAge(first['etou misa'].birth),
+  constellation: getConstellation(first['etou misa'].birth, 'ja')
 }, {
-  id: '01-11',
-  use: 'takayama kazumi',
-  nickname: 'kazumi',
-  age: getAge('1994/02/08'),
-  height: 162,
-  active: false,
+  ...first['akimoto manatsu'],
+  age: getAge(first['akimoto manatsu'].birth),
+  constellation: getConstellation(first['akimoto manatsu'].birth, 'ja')
 }, {
-  id: '01-12',
-  use: 'sakurai reika',
-  nickname: 'sakurai',
-  age: getAge('1994/05/16'),
-  height: 156,
-  active: false,
+  ...first['matsumura sayuri'],
+  age: getAge(first['matsumura sayuri'].birth),
+  constellation: getConstellation(first['matsumura sayuri'].birth, 'ja')
 }, {
-  id: '01-13',
-  use: 'nakamoto himeka',
-  nickname: 'himeka',
-  age: getAge('1996/04/13'),
-  height: 161,
-  active: false,
+  ...first['takayama kazumi'],
+  age: getAge(first['takayama kazumi'].birth),
+  constellation: getConstellation(first['takayama kazumi'].birth, 'ja')
 }, {
-  id: '01-14',
-  use: 'fukagawa mai',
-  nickname: 'maimai',
-  age: getAge('1991/03/29'),
-  height: 162,
-  active: false,
+  ...first['sakurai reika'],
+  age: getAge(first['sakurai reika'].birth),
+  constellation: getConstellation(first['sakurai reika'].birth, 'ja')
 }, {
-  id: '01-15',
-  use: 'inoue sayuri',
-  nickname: 'inoue',
-  age: getAge('1994/12/14'),
-  height: 156,
-  active: false,
+  ...first['nakamoto himeka'],
+  age: getAge(first['nakamoto himeka'].birth),
+  constellation: getConstellation(first['nakamoto himeka'].birth, 'ja')
 }, {
-  id: '01-16',
-  use: 'saitou yuuri',
-  nickname: 'yuuri',
-  age: getAge('1993/07/20'),
-  height: 156,
-  active: false,
+  ...first['fukagawa mai'],
+  age: getAge(first['fukagawa mai'].birth),
+  constellation: getConstellation(first['fukagawa mai'].birth, 'ja')
 }, {
-  id: '01-17',
-  use: 'ikoma rina',
-  nickname: 'ikoma',
-  age: getAge('1995/12/29'),
-  height: 153,
-  active: false,
+  ...first['inoue sayuri'],
+  age: getAge(first['inoue sayuri'].birth),
+  constellation: getConstellation(first['inoue sayuri'].birth, 'ja')
 }, {
-  id: '01-18',
-  use: 'noujou ami',
-  nickname: 'noujou',
-  age: getAge('1994/10/18'),
-  height: 156,
-  active: false,
+  ...first['saitou yuuri'],
+  age: getAge(first['saitou yuuri'].birth),
+  constellation: getConstellation(first['saitou yuuri'].birth, 'ja')
 }, {
-  id: '01-19',
-  use: 'wakatsuki yumi',
-  nickname: 'waka',
-  age: getAge('1994/06/27'),
-  height: 157,
-  active: false,
+  ...first['ikoma rina'],
+  age: getAge(first['ikoma rina'].birth),
+  constellation: getConstellation(first['ikoma rina'].birth, 'ja')
 }, {
-  id: '01-20',
-  use: 'kawamura mahiro',
-  nickname: 'mahiro',
-  age: getAge('1995/07/23'),
-  height: 156,
-  active: false,
+  ...first['noujou ami'],
+  age: getAge(first['noujou ami'].birth),
+  constellation: getConstellation(first['noujou ami'].birth, 'ja')
 }, {
-  id: '01-21',
-  use: 'kawago hina',
-  nickname: 'kawago',
-  age: getAge('1998/03/22'),
-  height: 161,
-  active: false,
+  ...first['wakatsuki yumi'],
+  age: getAge(first['wakatsuki yumi'].birth),
+  constellation: getConstellation(first['wakatsuki yumi'].birth, 'ja')
 }, {
-  id: '01-22',
-  use: 'higuchi hina',
-  nickname: 'higuchi',
-  age: getAge('1998/01/31'),
-  height: 159,
-  active: false,
+  ...first['kawamura mahiro'],
+  age: getAge(first['kawamura mahiro'].birth),
+  constellation: getConstellation(first['kawamura mahiro'].birth, 'ja')
 }, {
-  id: '01-23',
-  use: 'wada maaya',
-  nickname: 'maaya',
-  age: getAge('1998/04/23'),
-  height: 160,
-  active: false,
+  ...first['kawago hina'],
+  age: getAge(first['kawago hina'].birth),
+  constellation: getConstellation(first['kawago hina'].birth, 'ja')
 }, {
-  id: '01-24',
-  use: 'nagashima seira',
-  nickname: 'seirari',
-  age: getAge('1994/05/19'),
-  height: -Infinity,
-  active: false,
+  ...first['higuchi hina'],
+  age: getAge(first['higuchi hina'].birth),
+  constellation: getConstellation(first['higuchi hina'].birth, 'ja')
 }, {
-  id: '01-25',
-  use: 'saitou chiharu',
-  nickname: '',
-  age: getAge('1997/02/17'),
-  height: 166,
-  active: false,
+  ...first['wada maaya'],
+  age: getAge(first['wada maaya'].birth),
+  constellation: getConstellation(first['wada maaya'].birth, 'ja')
 }, {
-  id: '01-26',
-  use: 'nakada kana',
-  nickname: 'kana',
-  age: getAge('1994/08/06'),
-  height: 158,
-  active: false,
+  ...first['nagashima seira'],
+  age: getAge(first['nagashima seira'].birth),
+  constellation: getConstellation(first['nagashima seira'].birth, 'ja')
 }, {
-  id: '01-27',
-  use: 'itou nene',
-  nickname: 'nene',
-  age: getAge('1995/12/12'),
-  height: -Infinity,
-  active: false,
-},
-{
-  id: '01-28',
-  use: 'ichiki rena',
-  nickname: 'ichiki',
-  age: getAge('1996/01/22'),
-  height: -Infinity,
-  active: false,
+  ...first['saitou chiharu'],
+  age: getAge(first['saitou chiharu'].birth),
+  constellation: getConstellation(first['saitou chiharu'].birth, 'ja')
 }, {
-  id: '01-29',
-  use: 'kashiwa yukina',
-  nickname: 'kashiwa',
-  age: getAge('1994/08/12'),
-  height: -Infinity,
-  active: false,
+  ...first['nakada kana'],
+  age: getAge(first['nakada kana'].birth),
+  constellation: getConstellation(first['nakada kana'].birth, 'ja')
 }, {
-  id: '01-30',
-  use: 'iwase yumiko',
-  nickname: 'iwase',
-  age: getAge('1990/06/12'),
-  height: -Infinity,
-  active: false,
+  ...first['itou nene'],
+  age: getAge(first['itou nene'].birth),
+  constellation: getConstellation(first['itou nene'].birth, 'ja')
 }, {
-  id: '01-31',
-  use: 'hatanaka seira',
-  nickname: 'hatanaka',
-  age: getAge('1995/12/05'),
-  height: -Infinity,
-  active: false,
+  ...first['ichiki rena'],
+  age: getAge(first['ichiki rena'].birth),
+  constellation: getConstellation(first['ichiki rena'].birth, 'ja')
 }, {
-  id: '01-32',
-  use: 'miyazawa seira',
-  nickname: 'miyazawa',
-  age: getAge('1993/10/29'),
-  height: -Infinity,
-  active: false,
+  ...first['kashiwa yukina'],
+  age: getAge(first['kashiwa yukina'].birth),
+  constellation: getConstellation(first['kashiwa yukina'].birth, 'ja')
 }, {
-  id: '01-33',
-  use: 'yamato rina',
-  nickname: 'yamato',
-  age: getAge('1994/12/14'),
-  height: -Infinity,
-  active: false,
+  ...first['iwase yumiko'],
+  age: getAge(first['iwase yumiko'].birth),
+  constellation: getConstellation(first['iwase yumiko'].birth, 'ja')
+}, {
+  ...first['hatanaka seira'],
+  age: getAge(first['hatanaka seira'].birth),
+  constellation: getConstellation(first['hatanaka seira'].birth, 'ja')
+}, {
+  ...first['miyazawa seira'],
+  age: getAge(first['miyazawa seira'].birth),
+  constellation: getConstellation(first['miyazawa seira'].birth, 'ja')
+}, {
+  ...first['yamato rina'],
+  age: getAge(first['yamato rina'].birth),
+  constellation: getConstellation(first['yamato rina'].birth, 'ja')
 }]
 
 export const cateFirst = firstMember.concat(firstGraduated)

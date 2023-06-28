@@ -21,14 +21,14 @@ fetch('api/nogizaka/member', {
 
 - [x] 1. fetch office website data and save to JSON
 - [x] 2. data cleaning -> split && remove redundant fields
-- [ ] 3. collect && fetch wiki site to JSON and merge data
-- [ ] 4. nitro cache data
+- [x] 3. collect && fetch wiki site to JSON and merge data
+- [x] 4. nitro cache data
 - [ ] 5. design API
 
 ### `kiyaki` / `hinata` / `sakura`
 
-- [ ] 1. collect member's name map to wiki URL with JSON
-- [ ] 2. fetch && data clearing
+- [x] 1. collect member's name map to wiki URL with JSON
+- [x] 2. fetch && data clearing
 - [ ] 3. nitor cache data
 - [ ] 4. continue to use API design
 
@@ -40,22 +40,21 @@ interface Member {
   code: string
   name: string
   romanized: string
-  kana?: string
+  kana: string
   cate: string
-  img?: string
   birthday: string
-  constellation?: string
   blood?: string
+  img?: string
+  constellation?: string
 
   // customized
   id: string
   nickname: string
-  zh_name: string
   age: number
-  height: number
-  active: boolean
-  citizenship: string
+  height: number | string
+  // active: boolean
   birthplace: string
+  citizenship: string
 }
 ```
 

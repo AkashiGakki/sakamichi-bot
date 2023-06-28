@@ -1,0 +1,86 @@
+{
+  "kubo shiori": {
+    "id": "03-01",
+    "code": "36753",
+    "romanized": "kubo shiori",
+    "nickname": "shiori",
+    "birth": "2001/07/14"
+  },
+  "yamashita mizuki": {
+    "id": "03-02",
+    "code": "36758",
+    "romanized": "yamashita mizuki",
+    "nickname": "yama",
+    "birth": "1999/07/26"
+  },
+  "umezawa minami": {
+    "id": "03-03",
+    "code": "36751",
+    "romanized": "umezawa minami",
+    "nickname": "ume",
+    "birth": "1999/01/06"
+  },
+  "yoda yuuki": {
+    "id": "03-04",
+    "code": "36760",
+    "romanized": "yoda yuuki",
+    "nickname": "yoda",
+    "birth": "2000/05/05"
+  },
+  "oozono momoko": {
+    "id": "03-05",
+    "code": "36752",
+    "romanized": "oozono momoko",
+    "nickname": "momoko",
+    "birth": "1999/09/13"
+  },
+  "iwamoto renka": {
+    "id": "03-06",
+    "code": "36750",
+    "romanized": "iwamoto renka",
+    "nickname": "renka",
+    "birth": "2004/02/02"
+  },
+  "itou riria": {
+    "id": "03-07",
+    "code": "36749",
+    "romanized": "itou riria",
+    "nickname": "riria",
+    "birth": "2002/10/08"
+  },
+  "sakaguchi tamami": {
+    "id": "03-08",
+    "code": "36754",
+    "romanized": "sakaguchi tamami",
+    "nickname": "tamami",
+    "birth": "2001/11/10"
+  },
+  "nakamura reno": {
+    "id": "03-09",
+    "code": "36756",
+    "romanized": "nakamura reno",
+    "nickname": "reno",
+    "birth": "2001/09/27"
+  },
+  "mukai hazuki": {
+    "id": "03-10",
+    "code": "36757",
+    "romanized": "mukai hazuki",
+    "nickname": "hazuki",
+    "birth": "1999/08/23"
+  },
+  "sato kaede": {
+    "id": "03-11",
+    "code": "36755",
+    "romanized": "sato kaede",
+    "nickname": "den",
+    "birth": "1998/03/23"
+  },
+  "yoshida ayanochristie": {
+    "id": "03-12",
+    "code": "36759",
+    "romanized": "yoshida ayanochristie",
+    "nickname": "yoshida",
+    "birth": "1995/09/06"
+  }
+}

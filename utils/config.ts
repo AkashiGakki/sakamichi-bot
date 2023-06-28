@@ -7,5 +7,6 @@ export const defaultFields = [
   'img',
   'birthday',
   'constellation',
-  'blood'
+  'blood',
+  'english_name'
 ]

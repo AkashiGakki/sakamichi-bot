@@ -1,8 +1,8 @@
 import { $fetch } from 'ofetch'
 import { getObjectField } from '@use-kit/functions'
 
-import { defaultFields } from '.'
-import jsonData from '../data/no-member.json'
+import { defaultFields } from '@/utils'
+import jsonData from '@/data/no-member.json'
 
 const dataCleaning = (str: string): Record<string, unknown> => {
   const data = str.slice(4, -2)
@@ -19,25 +19,10 @@ export const fetchNoMembers = async () => {
   return []
 }
 
-const presetNoMembers = () => {
-  const members = jsonData.data
+export const presetNoMembers = (json: Record<string, unknown>[]) => {
+  const members = json
     .filter((m: Record<string, unknown>) => m.code !== '10001')
     .map((m: Record<string, unknown>) => getObjectField(m, defaultFields))
 
   return members
 }
-
-// TODO: preset + wiki
-export const nMembers = () => {
-  return presetNoMembers()
-}
-
-export const cachedNoMemberInfo = cachedFunction(async () => {
-  // TODO: get wiki data
-  const data = $fetch('')
-
-  return data
-}, {
-  maxAge: 60 * 60 * 12 * 7, // one week cached
-  name: 'noMemberInfo'
-})
