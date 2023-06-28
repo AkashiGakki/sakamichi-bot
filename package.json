@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nitro dev",
     "build": "nitro build",
+    "lint": "eslint .",
     "gen:no": "tsno run scripts/gen-nogi.ts",
     "wiki:no": "tsno run scripts/wiki/wiki-nogi.ts",
     "wiki:sa": "tsno run scripts/wiki/wiki-saku.ts",
@@ -13,10 +14,13 @@
   },
   "devDependencies": {
     "@types/node": "^20.1.1",
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "@typescript-eslint/parser": "^5.60.1",
     "@use-kit/functions": "^0.1.4",
     "@xmldom/xmldom": "^0.8.7",
     "cheerio": "1.0.0-rc.12",
     "domhandler": "^5.0.3",
+    "eslint": "^8.43.0",
     "got": "^13.0.0",
     "htmlparser2": "^9.0.0",
     "nitropack": "npm:nitropack-edge@latest",
