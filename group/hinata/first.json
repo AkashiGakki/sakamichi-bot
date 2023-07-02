@@ -1,0 +1,65 @@
+{
+  "kageyama_yuuka": {
+    "id": "01-02",
+    "code": "01-02",
+    "romanized": "kageyama yuuka",
+    "nickname": "kage-chan",
+    "birth": "2001/05/08"
+  },
+  "kato_shiho": {
+    "id": "01-03",
+    "code": "01-03",
+    "romanized": "kato shiho",
+    "nickname": "shiho-chan",
+    "birth": "1998/11/06"
+  },
+  "saito_kyoko": {
+    "id": "01-04",
+    "code": "01-04",
+    "romanized": "saito kyoko",
+    "nickname": "techi",
+    "birth": "1998/12/16"
+  },
+  "sasaki_kumi": {
+    "id": "01-05",
+    "code": "01-05",
+    "romanized": "sasaki kumi",
+    "nickname": "kuu-chan",
+    "birth": "1998/10/24"
+  },
+  "takase_mana": {
+    "id": "01-06",
+    "code": "01-06",
+    "romanized": "takase mana",
+    "nickname": "manattan",
+    "birth": "1998/10/08"
+  },
+  "takamoto_ayaka": {
+    "id": "01-07",
+    "code": "01-07",
+    "romanized": "takamoto ayaka",
+    "nickname": "ayachi",
+    "birth": "1998/07/05"
+  },
+  "higashimura_mei": {
+    "id": "01-08",
+    "code": "01-08",
+    "romanized": "higashimura mei",
+    "nickname": "meimei",
+    "birth": "1997/10/30"
+  },
+  "kanemura_miku": {
+    "id": "01-09",
+    "code": "01-09",
+    "romanized": "kanemura miku",
+    "nickname": "mikurin",
+    "birth": "1999/12/29"
+  },
+  "kawata_hina": {
+    "id": "01-10",
+    "code": "01-10",
+    "romanized": "kawata hina",
+    "nickname": "hinachima",
+    "birth": "2001/05/03"
+  }
+}
