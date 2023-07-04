@@ -1,0 +1,86 @@
+{
+  "shogenji_yoko": {
+    "id": "04-01",
+    "code": "29",
+    "romanized": "shogenji yoko",
+    "nickname": "yoko",
+    "birth": "2007/02/14"
+  },
+  "fujishima_kaho": {
+    "id": "04-02",
+    "code": "33",
+    "romanized": "fujishima kaho",
+    "nickname": "kaho",
+    "birth": "2006/08/07"
+  },
+  "watanabe_rina": {
+    "id": "04-03",
+    "code": "36",
+    "romanized": "watanabe rina",
+    "nickname": "rina",
+    "birth": "2009/02/07"
+  },
+  "hirao_honoka": {
+    "id": "04-04",
+    "code": "31",
+    "romanized": "hirao honoka",
+    "nickname": "honoka",
+    "birth": "2003/07/31"
+  },
+  "miyachi_sumire": {
+    "id": "04-05",
+    "code": "34",
+    "romanized": "miyachi sumire",
+    "nickname": "sumire",
+    "birth": "2005/12/31"
+  },
+  "ishizuka_tamaki": {
+    "id": "04-06",
+    "code": "25",
+    "romanized": "ishizuka_tamaki",
+    "nickname": "tamaki",
+    "birth": "2004/08/06"
+  },
+  "konishi_nanami": {
+    "id": "04-07",
+    "code": "27",
+    "romanized": "konishi nanami",
+    "nickname": "nanami",
+    "birth": "2004/10/03"
+  },
+  "takeuchi_kirari": {
+    "id": "04-08",
+    "code": "30",
+    "romanized": "takeuchi kirari",
+    "nickname": "kirari",
+    "birth": "2006/02/20"
+  },
+  "hiraoka_mitsuki": {
+    "id": "04-09",
+    "code": "32",
+    "romanized": "hiraoka mitsuki",
+    "nickname": "mitsuki",
+    "birth": "2002/04/09"
+  },
+  "yamashita_haruka": {
+    "id": "04-10",
+    "code": "35",
+    "romanized": "yamashita haruka",
+    "nickname": "haruka",
+    "birth": "2003/05/20"
+  },
+  "kishi_honoka": {
+    "id": "04-11",
+    "code": "26",
+    "romanized": "kishi honoka",
+    "nickname": "honoka",
+    "birth": "2004/08/15"
+  },
+  "shimizu_rio": {
+    "id": "04-12",
+    "code": "28",
+    "romanized": "shimizu rio",
+    "nickname": "rio",
+    "birth": "2005/01/15"
+  }
+}
