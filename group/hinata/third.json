@@ -1,0 +1,30 @@
+{
+  "yamaguchi_haruyo": {
+    "id": "03-01",
+    "code": "24",
+    "romanized": "yamaguchi haruyo",
+    "nickname": "haruyo",
+    "birth": "2004/02/23"
+  },
+  "kamimura_hinano": {
+    "id": "03-02",
+    "code": "21",
+    "romanized": "kamimura hinano",
+    "nickname": "hinano",
+    "birth": "2004/04/12"
+  },
+  "takahashi_mikuni": {
+    "id": "03-03",
+    "code": "22",
+    "romanized": "takahashi mikuni",
+    "nickname": "mikuni",
+    "birth": "2003/09/27"
+  },
+  "morimoto_ marie": {
+    "id": "03-04",
+    "code": "23",
+    "romanized": "morimoto marie",
+    "nickname": "marie",
+    "birth": "2004/02/23"
+  }
+}
