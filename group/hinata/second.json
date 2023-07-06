@@ -1,4 +1,18 @@
 {
+  "kanemura_miku": {
+    "id": "01-09",
+    "code": "01-09",
+    "romanized": "kanemura miku",
+    "nickname": "mikurin",
+    "birth": "1999/12/29"
+  },
+  "kawata_hina": {
+    "id": "01-10",
+    "code": "01-10",
+    "romanized": "kawata hina",
+    "nickname": "hinachima",
+    "birth": "2001/05/03"
+  },
   "watanabe_miho": {
     "id": "02-01",
     "code": "02-01",
