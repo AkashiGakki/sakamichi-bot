@@ -1,39 +1,79 @@
 {
-  "ishimori_rika": {
-    "id": "",
-    "code": "",
-    "romanized": "ishimori rika",
-    "nickname": "",
-    "birth": ""
-  },
-  "endo_riko": {
-    "romanized": "endo riko"
-  },
   "odakura_reina": {
-    "romanized": "odakura reina"
+    "id": "03-01",
+    "code": "61",
+    "romanized": "odakura reina",
+    "nickname": "reina",
+    "birth": "2004/07/25"
   },
-  "kojima_nagisa": {
-    "romanized": "kojima nagisa"
+  "murayama_miu": {
+    "id": "03-02",
+    "code": "68",
+    "romanized": "murayama miu",
+    "nickname": "miu",
+    "birth": "2005/02/15"
   },
   "taniguchi_airi": {
-    "romanized": "taniguchi airi"
+    "id": "03-03",
+    "code": "63",
+    "romanized": "taniguchi airi",
+    "nickname": "airi",
+    "birth": "2005/04/12"
   },
-  "nakashima_yuzuki": {
-    "romanized": "nakashimo yuzuki"
-  },
-  "matono_mio": {
-    "romanized": "matono mio"
-  },
-  "mukai_itoha": {
-    "romanized": "mukai_itoha"
+  "ishimori_rika": {
+    "id": "03-04",
+    "code": "59",
+    "romanized": "ishimori rika",
+    "nickname": "rika",
+    "birth": "2002/01/13"
   },
   "murai_yu": {
-    "romanized": "murai yu"
-  },
-  "murayuma_miu": {
-    "romanized": "murayama miu"
+    "id": "03-05",
+    "code": "67",
+    "romanized": "murai yu",
+    "nickname": "yu",
+    "birth": "2004/08/18"
   },
   "yamashita_shizuki": {
-    "romanized": "yamashita shizuki"
+    "id": "03-06",
+    "code": "69",
+    "romanized": "yamashita shizuki",
+    "nickname": "shizuki",
+    "birth": "2005/01/22"
+  },
+  "endo_riko": {
+    "id": "03-07",
+    "code": "60",
+    "romanized": "endo riko",
+    "nickname": "riko",
+    "birth": "2006/01/09"
+  },
+  "nakashima_yuzuki": {
+    "id": "03-08",
+    "code": "64",
+    "romanized": "nakashimo yuzuki",
+    "nickname": "yuzuki",
+    "birth": "2003/02/17"
+  },
+  "mukai_itoha": {
+    "id": "03-09",
+    "code": "66",
+    "romanized": "mukai_itoha",
+    "nickname": "itoha",
+    "birth": "2006/05/09"
+  },
+  "kojima_nagisa": {
+    "id": "03-10",
+    "code": "62",
+    "romanized": "kojima nagisa",
+    "nickname": "nigisa",
+    "birth": "2005/07/07"
+  },
+  "matono_mio": {
+    "id": "03-11",
+    "code": "65",
+    "romanized": "matono mio",
+    "nickname": "mio",
+    "birth": "2006/11/08"
   }
 }
