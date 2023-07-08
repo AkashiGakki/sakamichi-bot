@@ -1,42 +1,100 @@
 {
-  "inoue_rina": {
-    "id": "",
-    "code": "",
-    "romanized": "inoue rina",
-    "nickname": "",
-    "birth": ""
-  },
-  "endo_hikari": {
-    "romanized": "endo hikari"
+  "moriya_rena": {
+    "id": "02-01",
+    "code": "58",
+    "romanized": "moriya rena",
+    "nickname": "rena",
+    "birth": "2000/01/02"
   },
   "ozono_rei": {
-    "romanized": "ozono rei"
-  },
-  "onuma_akiho": {
-    "romanized": "onuma akiho"
-  },
-  "kousaka_marino": {
-    "romanized": "kousaka marino"
-  },
-  "takemoto_yui": {
-    "romanized": "takemto yui"
+    "id": "02-02",
+    "code": "54",
+    "romanized": "ozono rei",
+    "nickname": "rei",
+    "birth": "2000/04/18"
   },
   "tamura_hono": {
-    "romanized": "tamura hono"
+    "id": "02-03",
+    "code": "46",
+    "romanized": "tamura hono",
+    "nickname": "hono",
+    "birth": "1998/10/21"
+  },
+  "kousaka_marino": {
+    "id": "02-04",
+    "code": "56",
+    "romanized": "kousaka marino",
+    "nickname": "marino",
+    "birth": "2002/12/19"
   },
   "fujiyoshi_karin": {
-    "romanized": "fujiyoshi karin"
+    "id": "02-05",
+    "code": "47",
+    "romanized": "fujiyoshi karin",
+    "nickname": "karin",
+    "birth": "2001/08/29"
   },
-  "masumoto_kira": {
-    "romanized": "masumoto kira"
-  },
-  "matsuda_rina": {
-    "romanized": "matsuda rina"
-  },
-  "moriya_rena": {
-    "romanized": "moriya rena"
+  "takemoto_yui": {
+    "id": "02-06",
+    "code": "45",
+    "romanized": "takemto yui",
+    "nickname": "yui",
+    "birth": "2002/03/23"
   },
   "yamasaki_ten": {
-    "romanized": "yamasaki ten"
+    "id": "02-07",
+    "code": "51",
+    "romanized": "yamasaki ten",
+    "nickname": "ten",
+    "birth": "2005/09/28"
+  },
+  "matsuda_rina": {
+    "id": "02-08",
+    "code": "48",
+    "romanized": "matsuda rina",
+    "nickname": "rina",
+    "birth": "1999/10/13"
+  },
+  "masumoto_kira": {
+    "id": "02-09",
+    "code": "57",
+    "romanized": "masumoto kira",
+    "nickname": "kira",
+    "birth": "2002/01/12"
+  },
+  "onuma_akiho": {
+    "id": "02-10",
+    "code": "55",
+    "romanized": "onuma akiho",
+    "nickname": "akiho",
+    "birth": "1999/10/12"
+  },
+  "inoue_rina": {
+    "id": "02-11",
+    "code": "43",
+    "romanized": "inoue rina",
+    "nickname": "rina",
+    "birth": "2001/01/29"
+  },
+  "seki_yumiko": {
+    "id": "02-12",
+    "code": "52",
+    "romanized": "seki yumiko",
+    "nickname": "yumiko",
+    "birth": "1998/06/29"
+  },
+  "matsudaira_ riko": {
+    "id": "02-13",
+    "code": "44",
+    "romanized": "matsudaira riko",
+    "nickname": "riko",
+    "birth": "1998/05/05"
+  },
+  "endo_hikari": {
+    "id": "02-14",
+    "code": "53",
+    "romanized": "endo hikari",
+    "nickname": "hikari",
+    "birth": "1999/04/17"
   }
 }
