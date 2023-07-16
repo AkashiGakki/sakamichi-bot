@@ -1,96 +1,96 @@
 {
-  "hori miona": {
+  "hori_miona": {
     "id": "02-01",
     "code": "14470",
     "romanized": "hori miona",
     "nickname": "miona",
     "birth": "1996/10/15"
   },
-  "sasaki kotoko": {
+  "sasaki_kotoko": {
     "id": "02-02",
     "code": "17377",
     "romanized": "sasaki kotoko",
     "nickname": "kotoko",
     "birth": "1998/08/28"
   },
-  "kitano hinako": {
+  "kitano_hinako": {
     "id": "02-03",
     "code": "16454",
     "romanized": "kitano hinako",
     "nickname": "hinako",
     "birth": "1996/07/17"
   },
-  "shinuchi mai": {
+  "shinuchi_mai": {
     "id": "02-04",
     "code": "17068",
     "romanized": "shinuchi mai",
     "nickname": "shinuchi",
     "birth": "1992/01/22"
   },
-  "terada ranze": {
+  "terada_ranze": {
     "id": "02-05",
     "code": "17379",
     "romanized": "terada ranze",
     "nickname": "ranze",
     "birth": "1998/09/23"
   },
-  "itou junna": {
+  "itou_junna": {
     "id": "02-06",
     "code": "17376",
     "romanized": "itou junna",
     "nickname": "junna",
     "birth": "1998/11/30"
   },
-  "yamazaki rena": {
+  "yamazaki_rena": {
     "id": "02-07",
     "code": "17381",
     "romanized": "yamazaki rena",
     "nickname": "yamazaki",
     "birth": "1997/05/21"
   },
-  "watanabe miria": {
+  "watanabe_miria": {
     "id": "02-08",
     "code": "17383",
     "romanized": "watanabe miria",
     "nickname": "miria",
     "birth": "1999/11/01"
   },
-  "suzuki ayane": {
+  "suzuki_ayane": {
     "id": "02-09",
     "code": "17378",
     "romanized": "suzuki ayane",
     "nickname": "ayane",
     "birth": "1999/03/05"
   },
-  "matsui rena": {
+  "matsui_rena": {
     "id": "02-10",
     "code": "02-10",
     "romanized": "17822",
     "nickname": "rena",
     "birth": "1991/07/27"
   },
-  "sagara iori": {
+  "sagara_iori": {
     "id": "02-11",
     "code": "19634",
     "romanized": "sagara iori",
     "nickname": "iori",
     "birth": "1997/11/26"
   },
-  "itou karin": {
+  "itou_karin": {
     "id": "02-12",
     "code": "17375",
     "romanized": "itou karin",
     "nickname": "karin",
     "birth": "1993/05/26"
   },
-  "yonetoku kyoka": {
+  "yonetoku_kyoka": {
     "id": "02-13",
     "code": "17382",
     "romanized": "yonetoku kyoka",
     "nickname": "kyoka",
     "birth": "1999/04/14"
   },
-  "yada risako": {
+  "yada_risako": {
     "id": "02-14",
     "code": "17380",
     "romanized": "yada risako",
