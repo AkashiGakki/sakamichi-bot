@@ -1,21 +1,79 @@
 {
-  "uemura_rina": {
-    "id": "",
+  "watanabe_risa": {
+    "id": "01-01",
     "code": "",
-    "romanized": "uemura rina",
-    "nickname": "",
-    "birth": ""
+    "romanized": "watanabe risa",
+    "nickname": "risa",
+    "birth": "1998/07/27"
   },
-  "koike_minami": {
-    "romanized": "koike minami"
+  "moriya_akane": {
+    "id": "01-02",
+    "code": "",
+    "romanized": "moriya akane",
+    "nickname": "akane",
+    "birth": "1997/11/12"
+  },
+  "uemura_rina": {
+    "id": "01-03",
+    "code": "03",
+    "romanized": "uemura rina",
+    "nickname": "rina",
+    "birth": "1997/01/04"
   },
   "kobayashi_yui": {
-    "romanized": "kobayeshi yui"
+    "id": "01-04",
+    "code": "07",
+    "romanized": "kobayeshi yui",
+    "nickname": "yui",
+    "birth": "1999/10/23"
+  },
+  "koike_minami": {
+    "id": "01-05",
+    "code": "06",
+    "romanized": "koike minami",
+    "nickname": "minami",
+    "birth": "1999/10/23"
+  },
+  "watanabe_rika": {
+    "id": "01-06",
+    "code": "",
+    "romanized": "watanabe rika",
+    "nickname": "rika",
+    "birth": "1995/05/16"
+  },
+  "sugai_yuka": {
+    "id": "01-07",
+    "code": "11",
+    "romanized": "sagai yuka",
+    "nickname": "yuka",
+    "birth": "1995/11/29"
+  },
+  "harada_aoi": {
+    "id": "01-08",
+    "code": "15",
+    "romanized": "harada aoi",
+    "nickname": "aoi",
+    "birth": "2000/05/07"
+  },
+  "ozeki_rika": {
+    "id": "01-09",
+    "code": "04",
+    "romanized": "ozeki rika",
+    "nickname": "rika",
+    "birth": "1997/10/07"
   },
   "saito_fuyuka": {
-    "romanized": "saito fuyuka"
+    "id": "01-10",
+    "code": "08",
+    "romanized": "saito fuyuka",
+    "nickname": "fuyuka",
+    "birth": "1998/02/05"
   },
   "habu_mizuho": {
-    "romanized": "habu mizuho"
+    "id": "01-11",
+    "code": "14",
+    "romanized": "habu mizuho",
+    "nickname": "mizuho",
+    "birth": "1997/07/07"
   }
 }
