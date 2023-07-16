@@ -1,0 +1,100 @@
+{
+  "kanemura_miku": {
+    "id": "01-09",
+    "code": "01-09",
+    "romanized": "kanemura miku",
+    "nickname": "mikurin",
+    "birth": "1999/12/29"
+  },
+  "kawata_hina": {
+    "id": "01-10",
+    "code": "01-10",
+    "romanized": "kawata hina",
+    "nickname": "hinachima",
+    "birth": "2001/05/03"
+  },
+  "watanabe_miho": {
+    "id": "02-01",
+    "code": "02-01",
+    "romanized": "watanabe miho",
+    "nickname": "miipan",
+    "birth": "1998/01/23"
+  },
+  "kato_shiho": {
+    "id": "02-02",
+    "code": "02-02",
+    "romanized": "kato shiho",
+    "nickname": "shiho",
+    "birth": "1998/10/16"
+  },
+  "sasaki_kumi": {
+    "id": "02-03",
+    "code": "02-03",
+    "romanized": "sasaki kumi",
+    "nickname": "kumichan",
+    "birth": "1998/11/18"
+  },
+  "sasaki_mirei": {
+    "id": "02-04",
+    "code": "02-04",
+    "romanized": "sasaki mirei",
+    "nickname": "mirei",
+    "birth": "1999/10/10"
+  },
+  "takase_manaka": {
+    "id": "02-05",
+    "code": "02-05",
+    "romanized": "takase manaka",
+    "nickname": "manaka",
+    "birth": "1999/11/08"
+  },
+  "katagiri_hinata": {
+    "id": "02-06",
+    "code": "02-06",
+    "romanized": "katagiri hinata",
+    "nickname": "hinachima",
+    "birth": "2000/07/15"
+  },
+  "kuwahara_mayu": {
+    "id": "02-07",
+    "code": "02-07",
+    "romanized": "kuwahara mayu",
+    "nickname": "mayu",
+    "birth": "2000/09/19"
+  },
+  "kosaka_nao": {
+    "id": "02-08",
+    "code": "02-08",
+    "romanized": "kosaka nao",
+    "nickname": "nao",
+    "birth": "2001/02/07"
+  },
+  "seki_yumiko": {
+    "id": "02-09",
+    "code": "02-09",
+    "romanized": "seki yumiko",
+    "nickname": "yumiko",
+    "birth": "2001/04/17"
+  },
+  "sasaki_kumi_2": {
+    "id": "02-10",
+    "code": "02-10",
+    "romanized": "sasaki kumi",
+    "nickname": "kumichan",
+    "birth": "2002/02/20"
+  },
+  "miyata_manamo": {
+    "id": "02-11",
+    "code": "02-11",
+    "romanized": "miyata manamo",
+    "nickname": "manamo",
+    "birth": "2002/09/02"
+  },
+  "nibu_akari": {
+    "id": "02-12",
+    "code": "02-12",
+    "romanized": "nibu akari",
+    "nickname": "akarin",
+    "birth": "2002/09/17"
+  }
+}

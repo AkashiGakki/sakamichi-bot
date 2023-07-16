@@ -1,0 +1,86 @@
+{
+  "nagahama_neru": {
+    "id": "01-01",
+    "code": "0",
+    "romanized": "nagahima neru",
+    "nickname": "neru",
+    "birth": "1998/09/04"
+  },
+  "ushio_sarina": {
+    "id": "",
+    "code": "2",
+    "romanized": "ushio sarina",
+    "nickname": "sarina",
+    "birth": "1997/12/26"
+  },
+  "kageyama_yuuka": {
+    "id": "01-02",
+    "code": "4",
+    "romanized": "kageyama yuuka",
+    "nickname": "yuuka",
+    "birth": "2001/05/08"
+  },
+  "kato_shiho": {
+    "id": "01-03",
+    "code": "5",
+    "romanized": "kato shiho",
+    "nickname": "shiho",
+    "birth": "1998/02/02"
+  },
+  "saito_kyoko": {
+    "id": "01-04",
+    "code": "6",
+    "romanized": "saito kyoko",
+    "nickname": "kyoko",
+    "birth": "1997/09/05"
+  },
+  "sasaki_kumi": {
+    "id": "01-05",
+    "code": "7",
+    "romanized": "sasaki kumi",
+    "nickname": "kumi",
+    "birth": "1996/01/22"
+  },
+  "sadaki_mirei": {
+    "id": "",
+    "code": "8",
+    "romanized": "sasaki mirei",
+    "nickname": "mirei",
+    "birth": "1999/12/17"
+  },
+  "takase_mana": {
+    "id": "01-06",
+    "code": "9",
+    "romanized": "takase mana",
+    "nickname": "manafi",
+    "birth": "1998/09/20"
+  },
+  "takamoto_ayaka": {
+    "id": "01-07",
+    "code": "10",
+    "romanized": "takamoto ayaka",
+    "nickname": "ayaka",
+    "birth": "1998/11/02"
+  },
+  "higashimura_mei": {
+    "id": "01-08",
+    "code": "11",
+    "romanized": "higashimura mei",
+    "nickname": "meimei",
+    "birth": "1998/08/23"
+  },
+  "kakizaki_memi": {
+    "id": "01-04",
+    "code": "1",
+    "romanized": "kakizaki memi",
+    "nickname": "memi",
+    "birth": "2001/10/02"
+  },
+  "iguchi_mao": {
+    "id": "01-12",
+    "code": "3",
+    "romanized": "iguchi mao",
+    "nickname": "mao",
+    "birth": "1995/11/10"
+  }
+}

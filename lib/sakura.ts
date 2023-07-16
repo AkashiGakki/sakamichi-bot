@@ -36,7 +36,7 @@ export const sMember = () => {
       blood: content('td:nth-child(5)').text().trim(),
       height: content('td:nth-child(6)').text().trim().split('cm')[0],
     }
-  }).slice(12, -1).reverse()
+  }).slice(12).reverse()
 
   return items.concat(ogItems)
 }
