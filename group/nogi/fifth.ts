@@ -1,5 +1,5 @@
 import { getAge, getConstellation } from '@use-kit/functions'
-import fifth from './fifth.json'
+import fifth from './json/fifth.json'
 
 export const fifthOsu = [
   'nagi', 'teresa', 'satsuki', 'sakura', 'aruno', 'naonao',
@@ -13,7 +13,7 @@ export const fifthMember = [{
 }, {
   ...fifth['ikeda_teresa'],
   age: getAge(fifth['ikeda_teresa'].birth),
-  constellation: getConstellation(fifth['ikeda teresa'].birth, 'ja'),
+  constellation: getConstellation(fifth['ikeda_teresa'].birth, 'ja'),
 }, {
   ...fifth["sugawara_satsuki"],
   age: getAge(fifth['sugawara_satsuki'].birth),
@@ -55,3 +55,5 @@ export const fifthMember = [{
 export const fifthGraduated = []
 
 export const cateFifth = fifthMember.concat(fifthGraduated)
+
+// console.log({ cateFifth })

@@ -1,5 +1,5 @@
 import { getAge, getConstellation } from '@use-kit/functions'
-import fourth from './fourth.json'
+import fourth from './json/fourth.json'
 
 export const fourthOsu = [
   'ayame', 'kaki', 'mayu', 'saku', 'nao',
@@ -81,4 +81,4 @@ export const fourthGraduated = [{
 
 export const cateFourth = fourthMember.concat(fourthGraduated)
 
-console.log({ cateFourth })
+// console.log({ cateFourth })
