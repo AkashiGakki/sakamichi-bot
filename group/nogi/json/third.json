@@ -1,6 +1,7 @@
 {
   "kubo_shiori": {
     "id": "03-01",
+    "name": "久保史緒里",
     "code": "36753",
     "romanized": "kubo shiori",
     "nickname": "shiori",
@@ -8,6 +9,7 @@
   },
   "yamashita_mizuki": {
     "id": "03-02",
+    "name": "山下美月",
     "code": "36758",
     "romanized": "yamashita mizuki",
     "nickname": "yama",
@@ -15,6 +17,7 @@
   },
   "umezawa_minami": {
     "id": "03-03",
+    "name": "梅澤美波",
     "code": "36751",
     "romanized": "umezawa minami",
     "nickname": "ume",
@@ -22,6 +25,7 @@
   },
   "yoda_yuuki": {
     "id": "03-04",
+    "name": "与田祐希",
     "code": "36760",
     "romanized": "yoda yuuki",
     "nickname": "yoda",
@@ -29,6 +33,7 @@
   },
   "oozono_momoko": {
     "id": "03-05",
+    "name": "大園桃子",
     "code": "36752",
     "romanized": "oozono momoko",
     "nickname": "momoko",
@@ -36,6 +41,7 @@
   },
   "iwamoto_renka": {
     "id": "03-06",
+    "name": "岩本蓮加",
     "code": "36750",
     "romanized": "iwamoto renka",
     "nickname": "renka",
@@ -43,6 +49,7 @@
   },
   "itou_riria": {
     "id": "03-07",
+    "name": "伊藤理々杏",
     "code": "36749",
     "romanized": "itou riria",
     "nickname": "riria",
@@ -50,6 +57,7 @@
   },
   "sakaguchi_tamami": {
     "id": "03-08",
+    "name": "阪口珠美",
     "code": "36754",
     "romanized": "sakaguchi tamami",
     "nickname": "tamami",
@@ -57,6 +65,7 @@
   },
   "nakamura_reno": {
     "id": "03-09",
+    "name": "中村麗乃",
     "code": "36756",
     "romanized": "nakamura reno",
     "nickname": "reno",
@@ -64,6 +73,7 @@
   },
   "mukai_hazuki": {
     "id": "03-10",
+    "name": "向井葉月",
     "code": "36757",
     "romanized": "mukai hazuki",
     "nickname": "hazuki",
@@ -71,6 +81,7 @@
   },
   "sato_kaede": {
     "id": "03-11",
+    "name": "佐藤楓",
     "code": "36755",
     "romanized": "sato kaede",
     "nickname": "den",
@@ -78,6 +89,7 @@
   },
   "yoshida_ayanochristie": {
     "id": "03-12",
+    "name": "吉田綾乃クリスティー",
     "code": "36759",
     "romanized": "yoshida ayanochristie",
     "nickname": "yoshida",

@@ -1,6 +1,9 @@
 
 import fs from 'node:fs'
 import { load } from 'cheerio'
+import { mergeList } from '@use-kit/functions'
+
+import { groupNoGiMembers } from '@/group/nogi'
 
 export const nMembers = () => {
   const url = `${process.cwd()}/data/nogi/ja-nogi.html`
@@ -14,7 +17,7 @@ export const nMembers = () => {
     const content = load(member)
 
     return {
-      name: content('td:nth-child(1)').text(),
+      name: content('td:nth-child(1)').text().trim(),
       kana: content('td:nth-child(2)').text(),
       cate: content('td:nth-child(7)').text(),
       birthday: content('td:nth-child(3)').text().split('_')[0],
@@ -43,8 +46,7 @@ export const nMembers = () => {
 }
 
 export const getCacheNoGiMembers = cachedFunction(async () => {
-  // TODO: get wiki data
-  const data = nMembers()
+  const data = mergeList(nMembers(), groupNoGiMembers, 'name')
 
   return data
 }, {

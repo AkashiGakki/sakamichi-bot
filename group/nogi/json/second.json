@@ -1,6 +1,7 @@
 {
   "hori_miona": {
     "id": "02-01",
+    "name": "堀未央奈",
     "code": "14470",
     "romanized": "hori miona",
     "nickname": "miona",
@@ -8,6 +9,7 @@
   },
   "sasaki_kotoko": {
     "id": "02-02",
+    "name": "佐々木琴子",
     "code": "17377",
     "romanized": "sasaki kotoko",
     "nickname": "kotoko",
@@ -15,6 +17,7 @@
   },
   "kitano_hinako": {
     "id": "02-03",
+    "name": "北野日奈子",
     "code": "16454",
     "romanized": "kitano hinako",
     "nickname": "hinako",
@@ -22,6 +25,7 @@
   },
   "shinuchi_mai": {
     "id": "02-04",
+    "name": "新内眞衣",
     "code": "17068",
     "romanized": "shinuchi mai",
     "nickname": "shinuchi",
@@ -29,6 +33,7 @@
   },
   "terada_ranze": {
     "id": "02-05",
+    "name": "寺田蘭世",
     "code": "17379",
     "romanized": "terada ranze",
     "nickname": "ranze",
@@ -36,6 +41,7 @@
   },
   "itou_junna": {
     "id": "02-06",
+    "name": "伊藤純奈",
     "code": "17376",
     "romanized": "itou junna",
     "nickname": "junna",
@@ -43,6 +49,7 @@
   },
   "yamazaki_rena": {
     "id": "02-07",
+    "name": "山崎怜奈",
     "code": "17381",
     "romanized": "yamazaki rena",
     "nickname": "yamazaki",
@@ -50,6 +57,7 @@
   },
   "watanabe_miria": {
     "id": "02-08",
+    "name": "渡辺みり愛",
     "code": "17383",
     "romanized": "watanabe miria",
     "nickname": "miria",
@@ -57,6 +65,7 @@
   },
   "suzuki_ayane": {
     "id": "02-09",
+    "name": "鈴木絢音",
     "code": "17378",
     "romanized": "suzuki ayane",
     "nickname": "ayane",
@@ -64,6 +73,7 @@
   },
   "matsui_rena": {
     "id": "02-10",
+    "name": "松井玲奈",
     "code": "02-10",
     "romanized": "17822",
     "nickname": "rena",
@@ -71,6 +81,7 @@
   },
   "sagara_iori": {
     "id": "02-11",
+    "name": "相楽伊織",
     "code": "19634",
     "romanized": "sagara iori",
     "nickname": "iori",
@@ -78,6 +89,7 @@
   },
   "itou_karin": {
     "id": "02-12",
+    "name": "伊藤かりん",
     "code": "17375",
     "romanized": "itou karin",
     "nickname": "karin",
@@ -85,6 +97,7 @@
   },
   "yonetoku_kyoka": {
     "id": "02-13",
+    "name": "米徳京花",
     "code": "17382",
     "romanized": "yonetoku kyoka",
     "nickname": "kyoka",
@@ -92,6 +105,7 @@
   },
   "yada_risako": {
     "id": "02-14",
+    "kana": "やだ りさこ",
     "code": "17380",
     "romanized": "yada risako",
     "nickname": "risako",

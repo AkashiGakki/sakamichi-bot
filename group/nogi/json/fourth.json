@@ -1,6 +1,7 @@
 {
   "tsutsui_ayame": {
     "id": "04-01",
+    "name": "筒井あやめ",
     "code": "48017",
     "romanized": "tsutsui ayame",
     "nickname": "ayame",
@@ -8,6 +9,7 @@
   },
   "kaki_haruka": {
     "id": "04-02",
+    "name": "賀喜遥香",
     "code": "48008",
     "romanized": "kaki haruka",
     "nickname": "kaki",
@@ -15,6 +17,7 @@
   },
   "tamura_mayu": {
     "id": "04-03",
+    "name": "田村真佑",
     "code": "48015",
     "romanized": "tamura mayu",
     "nickname": "mayu",
@@ -22,6 +25,7 @@
   },
   "endo_sakura": {
     "id": "04-04",
+    "name": "遠藤さくら",
     "code": "48006",
     "romanized": "endo sakura",
     "nickname": "saku",
@@ -29,6 +33,7 @@
   },
   "yumiki_nao": {
     "id": "04-05",
+    "name": "弓木奈於",
     "code": "55387",
     "romanized": "yumiki nao",
     "nickname": "nao",
@@ -36,6 +41,7 @@
   },
   "kitagawa_yuri": {
     "id": "04-06",
+    "name": "北川悠理",
     "code": "48012",
     "romanized": "kitagawa yuri",
     "nickname": "yuri",
@@ -43,6 +49,7 @@
   },
   "matsuo_miyu": {
     "id": "04-07",
+    "name": "松尾美佑",
     "code": "55386",
     "romanized": "matsuo miyu",
     "nickname": "miyu",
@@ -50,6 +57,7 @@
   },
   "kanagawa_saya": {
     "id": "04-08",
+    "name": "金川紗耶",
     "code": "48010",
     "romanized": "kanagawa saya",
     "nickname": "saya",
@@ -57,6 +65,7 @@
   },
   "sato_rika": {
     "id": "04-09",
+    "name": "佐藤璃果",
     "code": "55384",
     "romanized": "sato rika",
     "nickname": "rika",
@@ -64,6 +73,7 @@
   },
   "hayashi_runa": {
     "id": "04-10",
+    "name": "林瑠奈",
     "code": "55385",
     "romanized": "hayashi runa",
     "nickname": "runa",
@@ -71,6 +81,7 @@
   },
   "shibata_yuna": {
     "id": "04-11",
+    "name": "柴田柚菜",
     "code": "48013",
     "romanized": "shibata yuna",
     "nickname": "yuna",
@@ -78,6 +89,7 @@
   },
   "hayakawa_seira": {
     "id": "04-12",
+    "name": "早川聖来",
     "code": "48018",
     "romanized": "hayakawa seira",
     "nickname": "seira",
@@ -85,6 +97,7 @@
   },
   "kakehashi_sayaka": {
     "id": "04-13",
+    "name": "掛橋沙耶香",
     "code": "48009",
     "romanized": "kakehashi sayaka",
     "nickname": "sayaka",
@@ -92,6 +105,7 @@
   },
   "yakubo_mio": {
     "id": "04-14",
+    "name": "矢久保美緒",
     "code": "48019",
     "romanized": "yakubo mio",
     "nickname": "mio",
@@ -99,6 +113,7 @@
   },
   "kuromi_haruka": {
     "id": "04-15",
+    "name": "黒見明香",
     "code": "55383",
     "romanized": "kuromi haruka",
     "nickname": "kuromi",
@@ -106,6 +121,7 @@
   },
   "seimiya_rei": {
     "id": "04-16",
+    "name": "清宮レイ",
     "code": "48014",
     "romanized": "seimiya rei",
     "nickname": "rei",

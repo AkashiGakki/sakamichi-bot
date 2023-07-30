@@ -1,6 +1,7 @@
 {
   "saito_asuka": {
     "id": "01-01",
+    "name": "齋藤飛鳥",
     "code": "264",
     "romanized": "saito asuka",
     "nickname": "asuka",
@@ -8,6 +9,7 @@
   },
   "nishino_nanase": {
     "id": "01-02",
+    "name": "西野七瀬",
     "code": "273",
     "romanized": "nishino nanase",
     "nickname": "nanase",
@@ -15,6 +17,7 @@
   },
   "hashimoto_nanami": {
     "id": "01-03",
+    "name": "橋本奈々未",
     "code": "275",
     "romanized": "hashimoto nanami",
     "nickname": "nanami",
@@ -22,6 +25,7 @@
   },
   "shiraishi_mai": {
     "id": "01-04",
+    "name": "白石麻衣",
     "code": "268",
     "romanized": "shiraishi mai",
     "nickname": "mai",
@@ -29,6 +33,7 @@
   },
   "ikuta_erika": {
     "id": "01-05",
+    "name": "生田絵梨花",
     "code": "253",
     "romanized": "ikuta erika",
     "nickname": "erika",
@@ -36,6 +41,7 @@
   },
   "itou_marika": {
     "id": "01-06",
+    "name": "伊藤万理華",
     "code": "257",
     "romanized": "itou marika",
     "nickname": "marika",
@@ -43,6 +49,7 @@
   },
   "hoshino_minami": {
     "id": "01-07",
+    "name": "星野みなみ",
     "code": "279",
     "romanized": "hoshino minami",
     "nickname": "minami",
@@ -50,6 +57,7 @@
   },
   "etou_misa": {
     "id": "01-08",
+    "name": "衛藤美彩",
     "code": "260",
     "romanized": "etou misa",
     "nickname": "misa",
@@ -57,6 +65,7 @@
   },
   "akimoto_manatsu": {
     "id": "01-09",
+    "name": "秋元真夏",
     "code": "7639",
     "romanized": "akimoto manatsu",
     "nickname": "manatsu",
@@ -64,6 +73,7 @@
   },
   "matsumura_sayuri": {
     "id": "01-10",
+    "name": "松村沙友理",
     "code": "280",
     "romanized": "matsumura sayuri",
     "nickname": "sayuri",
@@ -71,6 +81,7 @@
   },
   "takayama_kazumi": {
     "id": "01-11",
+    "name": "高山一実",
     "code": "269",
     "romanized": "takayama kazumi",
     "nickname": "kazumi",
@@ -78,6 +89,7 @@
   },
   "sakurai_reika": {
     "id": "01-12",
+    "name": "桜井玲香",
     "code": "267",
     "romanized": "sakurai reika",
     "nickname": "sakurai",
@@ -85,6 +97,7 @@
   },
   "nakamoto_himeka": {
     "id": "01-13",
+    "name": "中元日芽香",
     "code": "271",
     "romanized": "nakamoto himeka",
     "nickname": "himeka",
@@ -92,6 +105,7 @@
   },
   "fukagawa_mai": {
     "id": "01-14",
+    "name": "深川麻衣",
     "code": "278",
     "romanized": "fukagawa mai",
     "nickname": "maimai",
@@ -99,6 +113,7 @@
   },
   "inoue_sayuri": {
     "id": "01-15",
+    "name": "井上小百合",
     "code": "258",
     "romanized": "inoue sayuri",
     "nickname": "inoue",
@@ -106,6 +121,7 @@
   },
   "saitou_yuuri": {
     "id": "01-16",
+    "name": "斉藤優里",
     "code": "266",
     "romanized": "saitou yuuri",
     "nickname": "yuuri",
@@ -113,6 +129,7 @@
   },
   "ikoma_rina": {
     "id": "01-17",
+    "name": "生駒里奈",
     "code": "254",
     "romanized": "ikoma rina",
     "nickname": "ikoma",
@@ -120,6 +137,7 @@
   },
   "noujou_ami": {
     "id": "01-18",
+    "name": "能條愛未",
     "code": "274",
     "romanized": "noujou ami",
     "nickname": "noujou",
@@ -127,6 +145,7 @@
   },
   "wakatsuki_yumi": {
     "id": "01-19",
+    "name": "若月佑美",
     "code": "283",
     "romanized": "wakatsuki yumi",
     "nickname": "waka",
@@ -134,6 +153,7 @@
   },
   "kawamura_mahiro": {
     "id": "01-20",
+    "name": "川村真洋",
     "code": "263",
     "romanized": "kawamura mahiro",
     "nickname": "mahiro",
@@ -141,6 +161,7 @@
   },
   "kawago_hina": {
     "id": "01-21",
+    "name": "川後陽菜",
     "code": "262",
     "romanized": "kawago hina",
     "nickname": "kawago",
@@ -148,6 +169,7 @@
   },
   "higuchi_hina": {
     "id": "01-22",
+    "name": "樋口日奈",
     "code": "277",
     "romanized": "higuchi hina",
     "nickname": "higuchi",
@@ -155,6 +177,7 @@
   },
   "wada_maaya": {
     "id": "01-23",
+    "name": "和田まあや",
     "code": "284",
     "romanized": "wada maaya",
     "nickname": "maaya",
@@ -162,6 +185,7 @@
   },
   "nagashima_seira": {
     "id": "01-24",
+    "name": "永島聖羅",
     "code": "272",
     "romanized": "nagashima seira",
     "nickname": "seirari",
@@ -169,6 +193,7 @@
   },
   "saitou_chiharu": {
     "id": "01-25",
+    "name": "斎藤ちはる",
     "code": "265",
     "romanized": "saitou chiharu",
     "nickname": "",
@@ -176,6 +201,7 @@
   },
   "nakada_kana": {
     "id": "01-26",
+    "name": "中田花奈",
     "code": "270",
     "romanized": "nakada kana",
     "nickname": "kana",
@@ -183,6 +209,7 @@
   },
   "itou_nene": {
     "id": "01-27",
+    "name": "伊藤寧々",
     "code": "256",
     "romanized": "itou nene",
     "nickname": "nene",
@@ -190,6 +217,7 @@
   },
   "ichiki_rena": {
     "id": "01-28",
+    "name": "市來玲奈",
     "code": "255",
     "romanized": "ichiki rena",
     "nickname": "ichiki",
@@ -197,6 +225,7 @@
   },
   "kashiwa_yukina": {
     "id": "01-29",
+    "name": "柏幸奈",
     "code": "261",
     "romanized": "kashiwa yukina",
     "nickname": "kashiwa",
@@ -204,6 +233,7 @@
   },
   "iwase_yumiko": {
     "id": "01-30",
+    "name": "岩瀬佑美子",
     "code": "55388",
     "romanized": "iwase yumiko",
     "nickname": "iwase",
@@ -211,6 +241,7 @@
   },
   "hatanaka_seira": {
     "id": "01-31",
+    "name": "畠中清羅",
     "code": "276",
     "romanized": "hatanaka seira",
     "nickname": "hatanaka",
@@ -218,6 +249,7 @@
   },
   "miyazawa_seira": {
     "id": "01-32",
+    "name": "宮澤成良",
     "code": "281",
     "romanized": "miyazawa seira",
     "nickname": "miyazawa",
@@ -225,6 +257,7 @@
   },
   "yamato_rina": {
     "id": "01-33",
+    "name": "大和里菜",
     "code": "282",
     "romanized": "yamato rina",
     "nickname": "yamato",

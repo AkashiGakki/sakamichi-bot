@@ -1,6 +1,7 @@
 {
   "inoue_nagi": {
     "id": "05-01",
+    "name": "井上和",
     "code": "55389",
     "romanized": "inoue nagi",
     "nickname": "nagi",
@@ -8,6 +9,7 @@
   },
   "ikeda_teresa": {
     "id": "05-02",
+    "name": "池田瑛紗",
     "code": "55397",
     "romanized": "ikeda teresa",
     "nickname": "teresa",
@@ -15,6 +17,7 @@
   },
   "sugawara_satsuki": {
     "id": "05-03",
+    "name": "菅原咲月",
     "code": "55391",
     "romanized": "sugawara satsuki",
     "nickname": "satsuki",
@@ -22,6 +25,7 @@
   },
   "kawasaki_sakura": {
     "id": "05-04",
+    "name": "川﨑桜",
     "code": "55400",
     "romanized": "kawasaki sakura",
     "nickname": "sakura",
@@ -29,6 +33,7 @@
   },
   "nakanishi_aruno": {
     "id": "05-05",
+    "name": "中西アルノ",
     "code": "55395",
     "romanized": "nakanishi aruno",
     "nickname": "aruno",
@@ -36,6 +41,7 @@
   },
   "tomisato_nao": {
     "id": "05-06",
+    "name": "冨里奈央",
     "code": "55393",
     "romanized": "tomisato nao",
     "nickname": "naonao",
@@ -43,6 +49,7 @@
   },
   "ichinose_miku": {
     "id": "05-07",
+    "name": "一ノ瀬美空",
     "code": "55390",
     "romanized": "ichinose, miku",
     "nickname": "miku",
@@ -50,6 +57,7 @@
   },
   "ioki_mao": {
     "id": "05-08",
+    "name": "五百城茉央",
     "code": "55396",
     "romanized": "ioki mao",
     "nickname": "mao",
@@ -57,6 +65,7 @@
   },
   "okuda_iroha": {
     "id": "05-09",
+    "name": "奥田いろは",
     "code": "55394",
     "romanized": "okuda iroha",
     "nickname": "iroha",
@@ -64,6 +73,7 @@
   },
   "ogawa_aya": {
     "id": "05-10",
+    "name": "小川彩",
     "code": "55392",
     "romanized": "ogawa aya",
     "nickname": "aya",
@@ -71,6 +81,7 @@
   },
   "okamoto_hina": {
     "id": "05-11",
+    "name": "岡本姫奈",
     "code": "55401",
     "romanized": "okamoto hina",
     "nickname": "hina",
