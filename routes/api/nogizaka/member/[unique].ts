@@ -1,8 +1,8 @@
-import { nMembers } from '@/lib/nogi'
+import { nMembers, getCacheNoGiMembers } from '@/lib/nogi'
 
 export default eventHandler(async (event) => {
   const unique = event.context.params.unique
-  const members = nMembers()
+  const members = await getCacheNoGiMembers()
 
   return members.find(
     m => m.id === unique
